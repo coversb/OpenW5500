@@ -5,7 +5,7 @@ Open source W5500 module driver based on stm32f1xx.
 * DHCP client
 * DNS client
 * FTP client
-* Easy to prot to any C based project
+* Easy to porting to any C based project
 
 ## Note:
 * SERVER_DOMAIN in main.c can be a IP address or a domain name
